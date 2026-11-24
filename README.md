@@ -6,7 +6,7 @@
 
 A short, funny rant about the reply-all trap: one email to 40 people, and 39 of them reply-all to escape a thread they can only leave by replying-all.
 
-> "One email goes out to 40 people. Within minutes, 39 geniuses reply-all to say 'please remove me from this thread,' which adds 39 emails to the very thread they want to leave. The only way out is to reply-all, which is what trapped you in the first place. It is a support group for people who hate reply-all, run entirely by reply-all."
+> "One email goes out to 40 people. Within minutes, 39 geniuses reply-all to say 'please remove me from this thread,' which adds 39 emails to the very thread they want to leave. By lunch, HR has joined the thread to ask everyone to stop replying-all. HR replied-all. It is a support group for people who hate reply-all, run entirely by reply-all."
 
 ## Run it
 
